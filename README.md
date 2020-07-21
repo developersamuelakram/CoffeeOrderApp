@@ -6,4 +6,4 @@ I have also used SQLiteDatabase to save the orders from all activities and keep 
 different drink. Your previous order info will remain unless you clear the databse (I have provided the button for that) 
 Any questions dev.samakram@gmail.com
 
-The main Highlight of this App you can call is the CART AND ITS ABILITY to hold the data.
+The main Highlight of this App is the CART AND ITS ABILITY to hold the data.
