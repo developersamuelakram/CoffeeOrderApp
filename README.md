@@ -5,3 +5,5 @@ I have only added activities for position 0 and 1 and rest if someone wants to d
 I have also used SQLiteDatabase to save the orders from all activities and keep their information in the orderSummary. So no matter you exit the app or the exit and choose to order 
 different drink. Your previous order info will remain unless you clear the databse (I have provided the button for that) 
 Any questions dev.samakram@gmail.com
+
+The main Highlight of this App you can call is the CART AND ITS ABILITY to hold the data.
