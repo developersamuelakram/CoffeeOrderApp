@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">OrderApp</string>
+
+
+    <string name="greentea">Green Tea. Blended with mint,
+    lemongrass and lemon verbena, then sweetened just right and given a good shake with ice, so-refreshing!</string>
+
+
+    <string name="latte">A neat twist that can be done with any of the new Teavana teas is called a tea latte.
+    Basically, a tea latte is equal parts hot tea and steamed milk.  </string>
+
+
+    <string name="orangesmoothie">Starbucks Orange Mango Smoothie. A nourishing blend of natural orange mango juice,
+    a whole banana, milk, whey protein, and fiber powder and ice.</string>
+
+
+    <string name="orangevanilla">Vanilla Bean Crème Frappuccino® Blended Beverage. This rich and creamy blend of vanilla bean, milk and ice topped with
+    whipped cream takes va-va-vanilla flavor to another level.</string>
+
+
+    <string name="cappcuni">By Starbucks definition, a cappuccino is mostly milk foam, which weighs a lot less than milk. ... More specifically, a
+    cappuccino is made up of shots of espresso, half steamed milk (2% by default,) </string>
+
+
+    <string name="thaitea">Thai Tea is is made from strongly-brewed black tea, often spiced with ingredients such as star anise,
+    crushed tamarind, cardamom</string>
+    <string name="tea">Right next to water, tea is hailed as the most consumed drink in the world. Every single drop of tea
+    comes from the same type of plant</string>
+    <string name="bubbletea">Bubble Tea is the name given to the wide variety of refreshing flavoured
+    fruit teas and milk teas served ice cold or piping hot with chewy
+    tapioca balls that you suck up through a big fat straw! .</string>
+    <string name="match">Smooth and creamy matcha sweetened just right and served with steamed milk. This
+    favorite will transport your senses to pure green delight. </string>
+
+
+</resources>
